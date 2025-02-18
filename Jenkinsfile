@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar repositório') {
             steps {
-               git branch: 'main', url: 'https://github.com/JosimariFabri/testes-e2e-ebac-shop.git'
+               git branch: 'main', url: 'https://github.com/KarinaMGM/testes-em-ci---Jenkins'
             }
         }
         stage('Instalar dependências') {
