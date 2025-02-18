@@ -1,0 +1,30 @@
+[
+    {
+        "nomeProduto": "Cassius Sparring Tank",
+        "tamanho": "M",
+        "cor": "Blue",
+        "quantidade": 1  
+    },
+
+    {
+        "nomeProduto": "Zoltan Gym Tee",
+        "tamanho": "XS",
+        "cor": "Green",
+        "quantidade": 1  
+    },
+    
+    {
+        "nomeProduto": "Erica Evercool Sports Bra",
+        "tamanho": "S",
+        "cor": "Yellow",
+        "quantidade": 1  
+    },
+
+    {
+        "nomeProduto": "Josie Yoga Jacket",
+        "tamanho": "S",
+        "cor": "Black",
+        "quantidade": 1  
+    }
+
+]
